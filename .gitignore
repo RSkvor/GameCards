@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GameCard/.vs
+/GameCard/obj
+/GameCard.Team/obj
+/GameDynamic/obj
