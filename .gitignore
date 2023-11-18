@@ -6,3 +6,8 @@
 /GameCard/obj
 /GameCard.Team/obj
 /GameDynamic/obj
+/.vs/GameCard
+/GameCard.Console/.vs
+/GameCard.Console/obj/Debug/net7.0
+/GameCard.Dynamic/obj
+/GameCard.Console/obj
